@@ -1,5 +1,8 @@
-# Hi There! 👋 
-# I am Syed Fariss Faheem. Currently Studying in NED University of Engineering And Technology in Bachelor Of Computer Science And Information Technology (BCIT)
+# Hi There! 👋  
+
+## I am Syed Fariss Faheem.  
+### Currently studying at **NED University of Engineering and Technology**  
+### 📖 Bachelor of Computer Science and Information Technology (BCIT)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fariss2507&color=blue&style=flat)  
 
@@ -19,19 +22,19 @@
 
 ## 📊 My Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fariss2507&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariss2507&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fariss2507&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fariss2507&layout=compact&theme=tokyonight" height="180px"/>
 </div>  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fariss2507&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fariss2507&theme=tokyonight" height="180px"/>
 </div>  
 
 ---
 
 ## 📜 GitHub Contributions  
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fariss2507&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fariss2507&theme=tokyonight"/>
 </div>  
 
 ---
