@@ -1,5 +1,5 @@
 # Hi There! 👋 
-# I am Syed Fariss Faheem. Currently Studying in NED University of Engineering And Technology
+# I am Syed Fariss Faheem. Currently Studying in NED University of Engineering And Technology in Bachelor Of Computer Science And Information Technology (BCIT)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fariss2507&color=blue&style=flat)  
 
